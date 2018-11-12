@@ -5,11 +5,11 @@ Program meant to run in terminal:
 do_in_term.py	
 
 Run: python3 do_in_term.py do
-    } do is the codeword, so it will only run if the codeword is given
+> do is the codeword, so it will only run if the codeword is given
 
 Original Program:
 original_file.py
-    } original file, has an errorLine that gives some previous used and tried ideas
+> original file, has an errorLine that gives some previous used and tried ideas
 
 Core Program:
 tEXt_chAnGEr.py	
