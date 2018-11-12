@@ -3,8 +3,7 @@ uses dark magic to write in mEMe tEXt
 
 Program meant to run in terminal: 
 do_in_term.py	
-
-Run: python3 do_in_term.py do
+> Run: python3 do_in_term.py do
 > do is the codeword, so it will only run if the codeword is given
 
 Original Program:
